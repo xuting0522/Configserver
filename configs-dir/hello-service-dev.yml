@@ -4,4 +4,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-hello: 王老师
+hello: 许婷
